@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://github.com/gopalwebdev"><img src="https://img.shields.io/github/followers/gopalwebdev?label=Follow&style=social"></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gopalwebdev"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:gopalwebdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -17,18 +17,8 @@
 I'm a **Full Stack Developer** passionate about building scalable backend systems and delightful frontend experiences. I specialize in:
 
 - 🌐 **Frontend**: React, TypeScript, TailwindCSS
-- 🛠 **Backend**: Laravel, PHP, MySQL, PostgreSQL
-- 🐳 **DevOps**: Docker, Kubernetes, CI/CD
+- 🛠 **Backend**: Laravel, PHP, MySQL, PostgreSQL, Redis
+- 🐳 **DevOps**: Docker, Kubernetes, Github Actions
 - ☁️ **Cloud**: Digital Ocean, GCP (Learning)
 
 ---
-
-## 🔧 Tech Stack
-
-```ts
-const stack = {
-  frontend: ['React', 'Next.js', 'TypeScript', 'TailwindCSS'],
-  backend: ['Laravel', 'PHP', 'MySQL', 'PostgreSQL'],
-  devops: ['Docker', 'Kubernetes', 'Github Actions'],
-  testing: ['Jest', 'PHPUnit']
-}
